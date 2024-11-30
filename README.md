@@ -13,9 +13,13 @@ Performance Visualization: Plotted accuracy and loss graphs for training and val
 Robust Framework: Developed using Python, TensorFlow/Keras, and OpenCV for image preprocessing and model training.
 ## 🏆 Key Achievements
 CNN with Adam optimizer achieved the best accuracy of 90.89% on the training dataset.
+
 Successfully predicted known faces and classified unknown faces with high reliability.
+
 Extensive evaluation of neural networks for face recognition tasks, highlighting strengths and weaknesses.
 ## 🛠️ Technology Stack
 Languages & Tools: Python, TensorFlow/Keras, OpenCV
+
 Deep Learning Concepts: CNN, ANN, AlexNet, DenseNet, VGG19
+
 Evaluation Metrics: Accuracy, Loss Graphs, Real-World Predictions
